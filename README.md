@@ -1,5 +1,5 @@
 # Hackout-APIs
 
-Visit [Sololearn](https://www.sololearn.com/compiler-playground/web) an HTML, CSS and JS compiler
+HTML, CSS and JS compiler : https://www.sololearn.com/compiler-playground/web
 
 API LINK : https://api.thecatapi.com/v1/images/search
